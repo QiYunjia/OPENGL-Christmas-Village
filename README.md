@@ -83,7 +83,7 @@ mouse button to get on/off the sled.
 </div>
 **u/U**: look up  **i/I**: look down  **f/F**: fly up  **g/G**: fly down  **n/N**: zoom in  **m/M**: zoom out 
 <div style="display: flex; justify-content: center;">>
-    <img src="figures/fig4.png" width="600" height="100" alt="fig4">
+    <img src="figures/fig4.png" width="600" height="80" alt="fig4">
 </div>
 
 ⚫ Sled： 
@@ -97,11 +97,11 @@ mouse button to get on/off the sled.
 **c/C**: Switch to Inside the Cottage Scene    
 **v/V**: Switch to the Village Scene 
 <div style="display: flex; justify-content: center;">>
-    <img src="figures/fig6.png" width="600" height="150" alt="fig6">
+    <img src="figures/fig6.png" width="150" height="80" alt="fig6">
 </div>
 
 ⚫ Snowball: 
 **j/J**: Throw a snowball 
 <div style="display: flex; justify-content: center;">>
-    <img src="figures/fig7.png" width="600" height="150" alt="fig7">
+    <img src="figures/fig7.png" width="80" height="80" alt="fig7">
 </div>
