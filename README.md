@@ -9,7 +9,16 @@ the course.
 In this project, I have designed a Christmas village scene as illustrated in the image below, 
 which contains several static and moving objects. It consists of two main parts: the village and 
 the interiors of the cottage. 
+ <div style="display: flex; justify-content: center;">>
+    <img src="figures/fig1.png" width="240" height="350" alt="fig1">
+</div>
+
 Figure 1: The village 
+ <div style="display: flex; justify-content: center;">>
+    <img src="figures/fig2.png" width="240" height="350" alt="fig2">
+
+</div>
+
 Figure 2: The interiors of the cottage 
 Similar to many games, the Christmas scene is constructed from a first-person perspective, 
 allowing users to control movement and direction through keyboard inputs. Intermittently, 
