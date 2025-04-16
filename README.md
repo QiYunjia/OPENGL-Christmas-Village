@@ -90,7 +90,7 @@ mouse button to get on/off the sled.
 **Left mouse button**: sled slide    
 **Right mouse button**: get on/off the sled 
 <div style="display: flex; justify-content: center;">>
-    <img src="figures/fig5.png" width="200" height="200" alt="fig5">
+    <img src="figures/fig5.png" width="300" height="150" alt="fig5">
 </div>
 
 ⚫ Scene Switching: 
