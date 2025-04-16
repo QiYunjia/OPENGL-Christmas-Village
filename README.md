@@ -1,8 +1,7 @@
 # Christmas-Village
 
-##Introduction 
-The task for Assessment 2 is to create a 3D scene using the knowledge acquired in computer 
-graphics. My design concept aims to develop an interactive Christmas scene, allowing users 
+## Introduction 
+My design concept aims to develop an interactive Christmas scene, allowing users 
 to experience the festive atmosphere. Christmas encompasses various elements, making it an 
 excellent opportunity to showcase the graphics techniques and OpenGL functions covered in 
 the course. 
@@ -18,7 +17,7 @@ there will be some small interactive tasks woven into the experience to enhance 
 engagement. 
 
 
-##Techniques 
+## Techniques 
 In this design project, a significant number of necessary graphics techniques were employed. 
 Creation of Geometry: All objects in the project involve a substantial amount of geometric 
 creation. For instance, cones are used for Christmas trees, spheres for the snowman, and 
@@ -63,7 +62,7 @@ Get on/off the sled: Click the left mouse button to move the sled, and click the
 mouse button to get on/off the sled.
 
 
-##Instructions 
+## Instructions 
 ⚫ Movement and View Change: 
 w/W: Forward  s/S: Backward  a/A: Look left  d/D: Look right  Spacebar: Jump 
 u/U: look up  i/I: look down  f/F: fly up  g/G: fly down  n/N: zoom in  m/M: zoom out 
